@@ -1,0 +1,16 @@
+{
+    "name": "diogo/habits-list-php",
+    "authors": [
+        {
+            "name": "Diogo Abreu",
+            "email": "a27975@alunos.ipca.pt"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/",
+            "Http\\": "Http/"
+        }
+    }
+}
