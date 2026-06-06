@@ -1,5 +1,4 @@
-﻿# ESTAGIOP01_HabitsPHP
- # HabitsShare — PHP (Projeto 01)
+﻿# HabitsShare — PHP (Projeto 01)
 
 Aplicação web de gestão e partilha de hábitos desenvolvida em PHP puro, como projeto consolidador da formação *"Level One - The Fundamentals"* durante o estágio na Primariu (BRATIONAL - Sistemas de Informação Lda.).
 
