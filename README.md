@@ -96,4 +96,4 @@ Este projeto foi desenvolvido como parte do estágio curricular da Licenciatura 
 
 ## Licença
 
-Projeto académico — Estágio Curricular LESI, IPCA 2024/2025.
+Projeto académico — Estágio Curricular LESI, IPCA 2025/2026.
